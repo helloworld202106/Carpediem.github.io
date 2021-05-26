@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/helloworld202106/carpediem.github.io.git
-  branch: master
+  branch: main
